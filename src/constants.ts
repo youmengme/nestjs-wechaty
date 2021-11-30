@@ -1,0 +1,1 @@
+export const WECHATY_OPTIONS = 'wechaty_options'
