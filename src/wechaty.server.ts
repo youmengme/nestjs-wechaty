@@ -1,4 +1,3 @@
-import { WechatyModuleOptions } from './interface.d';
 import { Inject, Injectable } from '@nestjs/common';
 import { WECHATY_OPTIONS } from './constants';
 import { RegisterProps, WechatyDecorator } from 'wechaty-decorator'
