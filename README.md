@@ -1,5 +1,5 @@
-# wechaty-decorator
-> 装饰器版本的`wechaty`
+# nestjs-wechaty
+> 在`NestJs`中使用`wechaty`
 
 可以使用装饰器方便的处理不同类型的事件
 
@@ -41,5 +41,3 @@ export class AppModule {
 }
 
 ```
-
-# Tips
