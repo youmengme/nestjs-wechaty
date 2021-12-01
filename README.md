@@ -1,5 +1,5 @@
 # nestjs-wechaty
-> 在`NestJs`中使用`wechaty`
+> 在`NestJs`中使用`wechaty-decorator`
 
 可以使用装饰器方便的处理不同类型的事件
 
@@ -15,7 +15,10 @@ pnpm add nestjs-wechaty
 ## Example
 
 ```typescript
-// ./src/app.module.ts
+/**
+ * nestjs配置方法
+ * filePath: ./src/app.module.ts
+ * /
 
 import {Module} from '@nestjs/common'
 import {AppController} from './app.controller'
@@ -41,3 +44,6 @@ export class AppModule {
 }
 
 ```
+
+## nestjs-wechaty使用方法
+[wechaty-decorator](https://www.npmjs.com/package/wechaty-decorator)
