@@ -45,5 +45,5 @@ export class AppModule {
 
 ```
 
-## nestjs-wechaty使用方法
+## wechaty-decorator使用方法
 [wechaty-decorator](https://www.npmjs.com/package/wechaty-decorator)
